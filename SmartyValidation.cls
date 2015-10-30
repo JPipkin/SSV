@@ -1,6 +1,5 @@
 public class SmartyValidation {
 
-	//public Map<Integer,ssVal> records;
     public class SmartyValidationReturn{
         public Integer input_index;
         public Integer candidate_index;
